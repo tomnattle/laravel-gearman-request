@@ -1,5 +1,5 @@
 {
-    "name": "vendor/laravel-gearman-request",
+    "name": "tomnattle/laravel-gearman-request",
     "description": "replace laravel's http request to gearman'tcp server",
     "type": "library",
     "require": {
