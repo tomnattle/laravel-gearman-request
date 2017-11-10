@@ -16,6 +16,5 @@
             "email": "tomnattle@qq.com"
         }
     ],
-    "minimum-stability": "stable",
-	"prefer-stable": true,
+    "minimum-stability": "dev"
 }
