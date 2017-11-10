@@ -1,0 +1,15 @@
+{
+    "name": "vendor/laravel-gearman-request",
+    "description": "replace laravel's http request to gearman'tcp server",
+    "type": "library",
+    "require": {
+        "laravel/framework": "5.5.20"
+    },
+    "authors": [
+        {
+            "name": "wanghui",
+            "email": "tomnattle@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
