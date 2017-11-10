@@ -5,6 +5,11 @@
     "require": {
         "laravel/framework": "5.5.20"
     },
+	"autoload": {
+			"psr-4": {
+				"tomnattle\\": "lib/"
+			 }		
+	},
     "authors": [
         {
             "name": "wanghui",
